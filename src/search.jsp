@@ -17,7 +17,7 @@
 
     <div class="container snakes">
       <h2>Check before you watch!</h2>
-      <p>Don't get caught off guard by a snake in your favorite show.</p>
+      <p>DONT WORRY ABOUT YOUR JOBS YOU WILL DEFINITELY GET IT</p>
       <form action="search" method="get">
         Movie Title: 
         <input type="text" name="query" />
