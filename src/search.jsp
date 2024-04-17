@@ -10,14 +10,14 @@
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/snakes.css" rel="stylesheet" />
 
-    <title>Movie List | Does it have snakes?</title>
+    <title></title>
   </head>
   <body>
     <tagfiles:header />
 
     <div class="container snakes">
       <h2>Check before you watch!</h2>
-      <p>DONT WORRY ABOUT YOUR JOBS YOU WILL DEFINITELY GET IT</p>
+      <p>this is from rajeev branch</p>
       <form action="search" method="get">
         Movie Title: 
         <input type="text" name="query" />
