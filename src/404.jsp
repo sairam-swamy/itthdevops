@@ -9,7 +9,7 @@
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/snakes.css" rel="stylesheet" />
 
-    <title>404 | Does it have snakes?</title>
+    <title>this is from master branch</title>
   </head>
   <body>
     <tagfiles:header />
